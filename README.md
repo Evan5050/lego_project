@@ -1,4 +1,4 @@
-# LEGO Inflation Without Prices
+# LEGO Creativity Index
 
 A small data visualization project that looks at how LEGO set complexity has changed over time without using price data. It compares piece counts, part variety, color variety, specialized pieces, and minifigures across sets from 1949–2027.
 
