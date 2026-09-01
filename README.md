@@ -22,6 +22,10 @@ node scripts/preprocess-data.mjs
 
 This writes `app/public/data/lego-summary.json`.
 
+## Data availability
+
+`data/inventory_parts.csv` is not included in this repository because it exceeds GitHub's file-size limit. Download the LEGO CSV database from [Rebrickable](https://rebrickable.com/downloads/) and place `inventory_parts.csv` in the `data/` folder before rebuilding the summary data.
+
 ## Tech
 
 React, TypeScript, Vite/Vinext, Tailwind CSS, and Recharts.
